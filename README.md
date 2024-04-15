@@ -37,6 +37,8 @@ Figure 02  Encoder 8 * 3
 **Procedure**
 
 /* write all the steps invloved */
+
+
 1.Type the program in Quartus software.
 
 2.Compile and run the program.
